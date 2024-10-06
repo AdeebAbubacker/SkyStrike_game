@@ -9,8 +9,8 @@ To run the game on your Windows platform, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AdeebAbubacker/SkyStrike_game
-   cd SkyStrike_game
+   git clone https://github.com/AdeebAbubacker/skstrike_game
+   cd skstrike_game
    rm -rf build
    flutter create .
    flutter run -d windows
